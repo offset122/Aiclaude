@@ -1,0 +1,10 @@
+Flask==2.3.3
+Flask-Cors==4.0.0
+requests==2.31.0
+python-dotenv==1.0.1
+SpeechRecognition==3.10.0
+pyaudio==0.2.13        # Note: might require `portaudio` installed on system
+gTTS==2.3.2
+PyQt5==5.15.9
+pyttsx3==2.90
+numpy==1.24.3
